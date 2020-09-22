@@ -18,3 +18,4 @@ the password must have at least one of the following character types:
 
 depending on users' requirement.
 
+![alt text](https://github.com/PRATIKNALAWADE/Password-Generator/blob/master/Password%20Generator/Screenshot-Calculator.png)
